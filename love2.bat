@@ -1,0 +1,4 @@
+@echo off
+:love2
+echo PC hacked hahahhahahahahahahahaha PC hacked hahahhahahahahahahahaha PC hacked hahahhahahahahahahahaha PC hacked hahahhahahahahahahahaha PC hacked hahahhahahahahahahahaha PC hacked hahahhahahahahahahahaha PC hacked hahahhahahahahahahahaha PC hacked hahahhahahahahahahahaha PC hacked hahahhahahahahahahahaha PC hacked hahahhahahahahahahahaha PC hacked hahahhahahahahahahahaha PC hacked hahahhahahahahahahahaha PC hacked hahahhahahahahahahahaha PC hacked hahahhahahahahahahahaha PC hacked hahahhahahahahahahahaha PC hacked hahahhahahahahahahahaha PC hacked hahahhahahahahahahahaha PC hacked hahahhahahahahahahahaha PC hacked hahahhahahahahahahahaha PC hacked hahahhahahahahahahahaha  PC hacked hahahhahahahahahahahaha
+goto love2 
